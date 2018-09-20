@@ -1,0 +1,2 @@
+model_checkpoint_path: "/tmp/cs224n-squad-train/savings.ckpt"
+all_model_checkpoint_paths: "/tmp/cs224n-squad-train/savings.ckpt"
